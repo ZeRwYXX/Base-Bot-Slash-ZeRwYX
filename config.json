@@ -1,0 +1,7 @@
+{
+        "botToken": "VOTRE_TOKEN_DE_BOT",
+        "webhookId": "ID_DU_WEBHOOK",
+        "webhookToken": "TOKEN_DU_WEBHOOK",
+        "Ascii": true,
+        "AsciiContent": "VOTRE_TEXTE_ASCII"
+      }
