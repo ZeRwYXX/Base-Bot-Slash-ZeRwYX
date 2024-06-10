@@ -11,7 +11,7 @@ Avant de lancer le bot, vous devez avoir Node.js installé sur votre machine. Vo
 
 1. **Cloner le dépôt**
    ```bash
-   git clone [[URL_DU_REPO]](https://github.com/ZeRwYXX/Base-Bot-Slash-ZeRwYX)
+   git clone [[[URL_DU_REPO]](https://github.com/ZeRwYXX/Base-Bot-Slash-ZeRwYX)](https://github.com/ZeRwYXX/Base-Bot-Slash-ZeRwYX/)
    cd Base-Bot-Slash-ZeRwYX
    ```
 
